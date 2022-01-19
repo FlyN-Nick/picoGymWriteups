@@ -10,4 +10,4 @@ As this is a packet capture dump, we can use [Wireshark](https://www.wireshark.o
 
 ## Flag
 
-picoCTF{p33kab00_1_s33_u_deadbeef}
+*picoCTF{p33kab00_1_s33_u_deadbeef}*

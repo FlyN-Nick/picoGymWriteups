@@ -18,4 +18,4 @@ public boolean checkPassword(String password) {
 
 ## Flag
 
-picoCTF{w4rm1ng_Up_w1tH_jAv4_eec0716b713}
+*picoCTF{w4rm1ng_Up_w1tH_jAv4_eec0716b713}*
