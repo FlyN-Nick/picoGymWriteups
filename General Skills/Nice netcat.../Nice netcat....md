@@ -10,4 +10,4 @@ When running `$ nc mercury.picoctf.net 22342` in the terminal, we find that it p
 
 ## Flag
 
-* picoCTF{g00d_k1tty!_n1c3_k1tty!_5fb5e51d} *
+*picoCTF{g00d_k1tty!_n1c3_k1tty!_5fb5e51d}*
