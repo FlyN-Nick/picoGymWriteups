@@ -6,7 +6,7 @@ Your mission is to enter Dr. Evil's laboratory and retrieve the blueprints for h
 
 ## Solution
 
-Looking at the source code, we ca see that it checks if the passward is equal to a plaintext string. However, this is not the entire flag, because the "picoCTF{}" is removed from the input before passing it into the `checkPassword` function.
+Looking at the source code, we can see that it checks if the passward is equal to a plaintext string. However, this is not the entire flag, because the "picoCTF{}" is removed from the input before passing it into the `checkPassword` function.
 
 ```java
 String input = userInput.substring("picoCTF{".length(), userInput.length()-1); // picoCTF{} is removed with this line
