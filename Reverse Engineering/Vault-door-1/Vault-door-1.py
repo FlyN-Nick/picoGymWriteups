@@ -18,6 +18,6 @@ for pair in char_index_pairs:
 # convert list of chars to string
 flag = ''.join(flag)
 
-# if we look at the text file, we can see that there aren't any curly braces, meaning we need to add picoCTF{}
+# we need to add back picoCTF{}
 flag = f'picoCTF{{{flag}}}' # 3 brackets because we need to escape one of them
 print(flag)
